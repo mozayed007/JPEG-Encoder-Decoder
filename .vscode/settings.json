@@ -1,0 +1,29 @@
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./tests",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "cSpell.words": [
+        "allclose",
+        "cmap",
+        "dequantized",
+        "dtype",
+        "figsize",
+        "idct",
+        "IDCT",
+        "imageio",
+        "imread",
+        "imshow",
+        "meshgrid",
+        "ndarray",
+        "Precompute",
+        "psnr",
+        "PSNR",
+        "rtol"
+    ]
+}
